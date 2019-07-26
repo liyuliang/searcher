@@ -1,0 +1,7 @@
+package: search
+import:
+- package: github.com/huichen/wukong
+  version: ^0.1.0
+  subpackages:
+  - engine
+  - types

@@ -1,0 +1,17 @@
+hash: 137ae26f2ed54c366878ea5e8829cce40c1e98314508a3497cfa2f3b6eec4ea8
+updated: 2019-07-26T05:23:17.401325198-04:00
+imports:
+- name: github.com/adamzy/cedar-go
+  version: 80a9c64b256db37ac20aff007907c649afb714f1
+- name: github.com/huichen/murmur
+  version: e0489551cf5116e27d7cc69d97a53cdbdd028acf
+- name: github.com/huichen/sego
+  version: 3f3c8a8cfaccd7283fb524996d1cd19a8fd228d2
+- name: github.com/huichen/wukong
+  version: b48478ba05d3b985c11e8391f876cc660fdf1b34
+  subpackages:
+  - core
+  - engine
+  - types
+  - utils
+testImports: []
